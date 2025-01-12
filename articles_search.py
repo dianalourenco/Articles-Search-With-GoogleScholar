@@ -42,11 +42,13 @@ def find_articles(keyword):
 
         if title:
             title = title[0].text
-        else: 'No title available'
+        else:
+            title = 'No title available'
             
         if link:
             link = link[0]['href']
-        else: 'No link available'
+        else:
+            link = 'No link available'
 
         articles.append({
             'title': title,
