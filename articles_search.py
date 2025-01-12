@@ -5,17 +5,13 @@ import time
 import random
 
 
-# Keyword categories remain the same
+# Keyword categories
 ALGAE_KEYWORDS = [
     'algae', 'microalgae', 'cyanobacteria', 'diatoms']
 PLASTIC_KEYWORDS = [
-    'plastic', 'microplastic', 'polymeric materials', 'polyethylene',
-    'PET', 'polypropylene', 'Polycarbonate', 'PC', 'PP',
-    'Polyethylene Terephthalate', 'PE', 'Polyvinyl Chloride', 'PVC',
-    'BPA', 'LDPE', 'HDPE', 'polymer']
+    'plastic', 'microplastic', 'polymeric materials']
 DEGRADATION_KEYWORDS = [
-    'degradation', 'biodegradation', 'degrade', 'breakdown',
-    'enzymatic degradation', 'biocatalysis', 'biodeterioration']
+    'degradation', 'biodegradation', 'degrade']
 
 
 queries = []
