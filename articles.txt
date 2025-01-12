@@ -1,2 +1,32 @@
 Retrieved Articles:
 
+0. Title: Biofilm and diatom succession on polyethylene (PE) and biodegradable plastic bags in two marine habitats: early signs of degradation in the pelagic and benthic zone …
+   Link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137201
+
+1. Title: Plastic biodegradation: Frontline microbes and their enzymes
+   Link: https://www.sciencedirect.com/science/article/pii/S0048969720370674
+
+2. Title: Functional expression of polyethylene terephthalate-degrading enzyme (PETase) in green microalgae
+   Link: https://link.springer.com/article/10.1186/s12934-020-01355-8
+
+3. Title: Algae based bio-plastics: Future of green economy
+   Link: https://books.google.com/books?hl=pt-PT&lr=&id=vtFuEAAAQBAJ&oi=fnd&pg=PA79&dq=algae+plastic+degradation&ots=MYHdKc3fig&sig=6u6EcZ9--KNUdC8Mpy44WJEolbc
+
+4. Title: Enhancement of biodegradability and tensile characteristics of composite plastic film with spirulina algal biomass
+   Link: https://iopscience.iop.org/article/10.1088/1755-1315/476/1/012139/meta
+
+5. Title: Efficient secretion of a plastic degrading enzyme from the green algae Chlamydomonas reinhardtii
+   Link: https://www.biorxiv.org/content/10.1101/2024.10.23.619606.abstract
+
+6. Title: [HTML][HTML] Pyrolysis of lignocellulosic, algal, plastic, and other biomass wastes for biofuel production and circular bioeconomy: a review of thermogravimetric analysis …
+   Link: https://www.sciencedirect.com/science/article/pii/S136403212200795X
+
+7. Title: Microbial degradation of plastic: a review
+   Link: https://jbiochemtech.com/article/microbial-degradation-of-plastic-a-review
+
+8. Title: Insights into Algae-Plastic Pyrolysis: Thermogravimetric and Kinetic Approaches for Renewable Energy
+   Link: https://www.sciencedirect.com/science/article/pii/S0360544224041008
+
+9. Title: Biodegradation of macro-and micro-plastics in environment: A review on mechanism, toxicity, and future perspectives
+   Link: https://www.sciencedirect.com/science/article/pii/S0048969722072084
+
