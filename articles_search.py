@@ -7,11 +7,11 @@ import random
 
 # Keyword categories
 ALGAE_KEYWORDS = [
-    'algae'] #, 'microalgae', 'cyanobacteria', 'diatoms']
+    'algae', 'microalgae', 'cyanobacteria', 'diatoms']
 PLASTIC_KEYWORDS = [
-    'plastic'] #, 'microplastic', 'polymeric materials']
+    'plastic', 'microplastic', 'polymeric materials']
 DEGRADATION_KEYWORDS = [
-    'degradation']#, 'biodegradation', 'degrade']
+    'degradation', 'biodegradation', 'degrade']
 
 
 queries = []

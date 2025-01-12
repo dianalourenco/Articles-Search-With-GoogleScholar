@@ -1,32 +1,32 @@
 Retrieved Articles:
 
-0. Title: Biofilm and diatom succession on polyethylene (PE) and biodegradable plastic bags in two marine habitats: early signs of degradation in the pelagic and benthic zone …
-   Link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137201
+0. Title: [HTML][HTML] Nature's fight against plastic pollution: Algae for plastic biodegradation and bioplastics production
+   Link: https://www.sciencedirect.com/science/article/pii/S2666498420300570
 
-1. Title: Plastic biodegradation: Frontline microbes and their enzymes
-   Link: https://www.sciencedirect.com/science/article/pii/S0048969720370674
+1. Title: Algal degradation of microplastic from the environment: Mechanism, challenges, and future prospects
+   Link: https://www.sciencedirect.com/science/article/pii/S2211926422002193
 
-2. Title: Functional expression of polyethylene terephthalate-degrading enzyme (PETase) in green microalgae
-   Link: https://link.springer.com/article/10.1186/s12934-020-01355-8
+2. Title: Interplay of plastic pollution with algae and plants: hidden danger or a blessing?
+   Link: https://www.sciencedirect.com/science/article/pii/S0304389422012432
 
-3. Title: Algae based bio-plastics: Future of green economy
-   Link: https://books.google.com/books?hl=pt-PT&lr=&id=vtFuEAAAQBAJ&oi=fnd&pg=PA79&dq=algae+plastic+degradation&ots=MYHdKc3fig&sig=6u6EcZ9--KNUdC8Mpy44WJEolbc
+3. Title: Exploring the potential of algae in the mitigation of plastic pollution in aquatic environments
+   Link: https://www.igi-global.com/chapter/exploring-the-potential-of-algae-in-the-mitigation-of-plastic-pollution-in-aquatic-environments/306388
 
-4. Title: Enhancement of biodegradability and tensile characteristics of composite plastic film with spirulina algal biomass
-   Link: https://iopscience.iop.org/article/10.1088/1755-1315/476/1/012139/meta
+4. Title: Role of algae and cyanobacteria in bioremediation: prospects in polyethylene biodegradation
+   Link: https://www.sciencedirect.com/science/article/pii/B978012819311200022X
 
-5. Title: Efficient secretion of a plastic degrading enzyme from the green algae Chlamydomonas reinhardtii
-   Link: https://www.biorxiv.org/content/10.1101/2024.10.23.619606.abstract
+5. Title: Role of algae in biodegradation of plastics
+   Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119857839.ch5
 
-6. Title: [HTML][HTML] Pyrolysis of lignocellulosic, algal, plastic, and other biomass wastes for biofuel production and circular bioeconomy: a review of thermogravimetric analysis …
-   Link: https://www.sciencedirect.com/science/article/pii/S136403212200795X
+6. Title: Algae: a frontline photosynthetic organism in the microplastic catastrophe
+   Link: https://www.cell.com/trends/plant-science/fulltext/S1360-1385(22)00157-1
 
-7. Title: Microbial degradation of plastic: a review
-   Link: https://jbiochemtech.com/article/microbial-degradation-of-plastic-a-review
+7. Title: [HTML][HTML] Biodegradation and characterization study of compostable PLA bioplastic containing algae biomass as potential degradation accelerator
+   Link: https://www.sciencedirect.com/science/article/pii/S2667010021000469
 
-8. Title: Insights into Algae-Plastic Pyrolysis: Thermogravimetric and Kinetic Approaches for Renewable Energy
-   Link: https://www.sciencedirect.com/science/article/pii/S0360544224041008
+8. Title: [PDF][PDF] Biodegradation of polyethylene by green photosynthetic microalgae
+   Link: https://www.researchgate.net/profile/Rajesh-Gopal-Mrsb/publication/312590130_Biodegradation_of_Polyethylene_by_Green_Photosynthetic_Microalgae/links/5c2b94fa458515a4c7058654/Biodegradation-of-Polyethylene-by-Green-Photosynthetic-Microalgae.pdf
 
-9. Title: Biodegradation of macro-and micro-plastics in environment: A review on mechanism, toxicity, and future perspectives
-   Link: https://www.sciencedirect.com/science/article/pii/S0048969722072084
+9. Title: Green revolution to protect environment–an identification of potential micro algae for the biodegradation of plastic waste in Malaysia
+   Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3391802
 
